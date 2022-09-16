@@ -1,4 +1,4 @@
 just a respostory to create short (and readable) links
 
-<a href = '/lusiadas'>lusiadas</a> (school project)<br>
-<a href = '/money'>MONEY</a> (another school project)
+<a href = 'https://gdor-11.github.io/links/lusiadas'>lusiadas</a> (school project)<br>
+<a href = 'https://gdor-11.github.io/links/money'>MONEY</a> (another school project)
